@@ -1,0 +1,6 @@
+version: "3"
+services:
+  api:
+    image: sagartomar/cicd
+    ports:
+      - 80:8000
